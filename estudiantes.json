@@ -1,0 +1,28 @@
+{
+    "estudiantes": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "edad": 20,
+            "carrera": "Ingenier\u00eda"
+        },
+        {
+            "id": 2,
+            "nombre": "Mar\u00eda",
+            "edad": 22,
+            "carrera": "Medicina"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "edad": 21,
+            "carrera": "Derecho"
+        },
+        {
+            "id": 4,
+            "nombre": "Ana",
+            "edad": 23,
+            "carrera": "Arquitectura"
+        }
+    ]
+}
