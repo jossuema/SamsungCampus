@@ -1,0 +1,32 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nombre": "Juan P\u00e9rez",
+            "email": "juan.perez@email.com",
+            "telefono": "123-456-7890",
+            "direccion": "Calle Ficticia 123"
+        },
+        {
+            "id": 2,
+            "nombre": "Ana G\u00f3mez",
+            "email": "ana.gomez@email.com",
+            "telefono": "987-654-3210",
+            "direccion": "Avenida Real 456"
+        }
+    ],
+    "productos": [
+        {
+            "id_producto": 101,
+            "nombre_producto": "Laptop HP",
+            "precio": 1200.5,
+            "stock": 30
+        },
+        {
+            "id_producto": 102,
+            "nombre_producto": "Smartphone Samsung",
+            "precio": 800.99,
+            "stock": 50
+        }
+    ]
+}
